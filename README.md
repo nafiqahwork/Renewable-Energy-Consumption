@@ -105,7 +105,7 @@ The dominance of industrial usage suggests opportunities to further expand renew
 
 -----
 
-##Recommendations
+## Recommendations
 Based on the findings, the following strategic actions are recommended:
 - Industrial Sector Focus: Strengthen initiatives to expand renewable energy use in industrial operations
 - Residential Growth Opportunities: Promote adoption through incentives and awareness, particularly for solar energy
@@ -116,7 +116,7 @@ Based on the findings, the following strategic actions are recommended:
 
 -----
 
-Assumptions
+## Assumptions
 - The dataset accurately reflects renewable energy consumption across all sources
 - Sector classifications remain consistent throughout the analysis period
 - Consumption values are measured using standardized methodologies
@@ -124,7 +124,7 @@ Assumptions
 
 -----
 
-Dashboard Capabilities
+## Dashboard Capabilities
 - Interactive sector selection
 - Detailed breakdowns by energy source and sector
 - Historical trend analysis with consumption metrics
