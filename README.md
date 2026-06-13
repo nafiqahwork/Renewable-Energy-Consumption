@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This analysis explores renewable energy consumption trends in the United States from 1973 to 2024, offering insights into growth patterns, energy composition, and sectoral distribution. An interactive Power BI dashboard presents key metrics such as total renewable energy usage, source breakdowns, and sector-level consumption patterns.
+This analysis explores renewable energy consumption trends in the United States from 1973 to 2024, offering insights into growth patterns, energy composition, and sectoral distribution. An interactive Power BI dashboard presents key metrics such as total renewable energy usage, source breakdowns, and sector level consumption patterns.
 
 This project serves as a useful resource for policymakers, sustainability analysts, and industry stakeholders aiming to understand the evolution and current landscape of renewable energy adoption in the U.S.
 
@@ -24,7 +24,7 @@ Source-Sector Relationships – Interaction between energy sources and consumpti
 -----
 
 ## Dataset Description
-The data model is structured to support efficient time-series analysis of renewable energy consumption.
+The data model is structured to support efficient time series analysis of renewable energy consumption.
 Tables
 Dataset: 
 The main fact table containing detailed consumption records with the following fields:
@@ -75,7 +75,7 @@ The analysis highlights notable growth and evolving patterns in U.S. renewable e
 ## Insights Deep Dive
 
 Category 1: Historical Consumption Trends
-Key observations from the time-series analysis include:
+Key observations from the time series analysis include:
 Renewable energy consumption has increased significantly since the 1970s, with accelerated growth starting in the early 2000s
 The trend includes periodic fluctuations, likely influenced by economic cycles, policy shifts, and technological progress
 Recent years show faster adoption, indicating stronger market penetration and policy support
@@ -83,7 +83,7 @@ Recent years show faster adoption, indicating stronger market penetration and po
 Category 2: Energy Source Composition
 The renewable energy mix is diverse, with varying contributions from different sources:
 Biomass energy leads with 141,866.49 TBTU
-Wood energy is the second-largest source at 112,315.11 TBTU
+Wood energy is the second largest source at 112,315.11 TBTU
 Conventional hydroelectric power contributes 42,333 TBTU
 Emerging sources such as solar and wind have smaller but steadily increasing shares
 Additional sources like waste energy and geothermal contribute to overall diversification
