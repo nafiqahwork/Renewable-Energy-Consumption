@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This analysis explores renewable energy consumption trends in the United States from 1973 to 2024, offering insights into growth patterns, energy composition, and sectoral distribution. An interactive Power BI dashboard presents key metrics such as total renewable energy usage, source breakdowns, and sector level consumption patterns.
+This analysis explores renewable energy consumption trends in the United States from 1973 to 2024, offering insights into growth patterns, energy composition and sectoral distribution. An interactive Power BI dashboard presents key metrics such as total renewable energy usage, source breakdowns and sector level consumption patterns.
 
-This project serves as a useful resource for policymakers, sustainability analysts, and industry stakeholders aiming to understand the evolution and current landscape of renewable energy adoption in the U.S.
+This project serves as a useful resource for policymakers, sustainability analysts and industry stakeholders aiming to understand the evolution and current landscape of renewable energy adoption in the U.S.
 
 -----
 
@@ -18,7 +18,7 @@ The analysis focuses on four key dimensions of renewable energy consumption:
 
 Historical Consumption Trends – Long-term developments in renewable energy adoption
 Energy Source Composition – Distribution across various renewable energy types
-Sectoral Consumption – Usage across industrial, residential, commercial, and transportation sectors
+Sectoral Consumption – Usage across industrial, residential, commercial and transportation sectors
 Source-Sector Relationships – Interaction between energy sources and consumption sectors
 
 -----
@@ -77,7 +77,7 @@ The analysis highlights notable growth and evolving patterns in U.S. renewable e
 Category 1: Historical Consumption Trends
 Key observations from the time series analysis include:
 Renewable energy consumption has increased significantly since the 1970s, with accelerated growth starting in the early 2000s
-The trend includes periodic fluctuations, likely influenced by economic cycles, policy shifts, and technological progress
+The trend includes periodic fluctuations, likely influenced by economic cycles, policy shifts and technological progress
 Recent years show faster adoption, indicating stronger market penetration and policy support
 
 Category 2: Energy Source Composition
@@ -111,7 +111,7 @@ Based on the findings, the following strategic actions are recommended:
 - Residential Growth Opportunities: Promote adoption through incentives and awareness, particularly for solar energy
 - Transportation Sector Development: Invest in infrastructure and policies to increase renewable usage in transportation
 - Biomass Optimization: Continue supporting biomass while ensuring sustainable sourcing practices
-- Emerging Source Acceleration: Provide funding and incentives to scale solar, wind, and other emerging technologies
+- Emerging Source Acceleration: Provide funding and incentives to scale solar, wind and other emerging technologies
 - Seasonal Planning: Optimize production and consumption strategies based on seasonal demand patterns
 
 -----
